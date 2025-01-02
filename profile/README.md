@@ -53,7 +53,7 @@
 
 ---
 
-### **What’s New in Scratch Adventure APK 1.5.9**
+### **What’s New in Scratch Adventure APK 1.7.5**
 
 The latest version of **Scratch Adventure APK** introduces:
 
