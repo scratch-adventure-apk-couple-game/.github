@@ -19,7 +19,7 @@
 
 ### **What is Scratch Adventure?**
 
-**Scratch Adventure APK** is an interactive adventure game that encourages creativity and problem-solving. Developed by [CreativeGames Studio](https://creativegamesstudio.com), it offers a mix of puzzles, exploration, and user-generated content.
+**Scratch Adventure APK** is an interactive adventure game that encourages creativity and problem-solving. Developed by CreativeGames Studio, it offers a mix of puzzles, exploration, and user-generated content.
 
 - **Interactive Gameplay:** Design and solve puzzles in an open world.
 - **Dynamic Challenges:** Adapt to unique obstacles with creative solutions.
